@@ -1,0 +1,13 @@
+tensorflow~=2.15.1
+fastapi~=0.99.1
+uvicorn~=0.29.0
+python-multipart
+pillow~=9.4.0
+tensorflow-serving-api==2.15.1
+matplotlib
+numpy~=1.24.3
+
+zlib~=1.2.13
+pathlib~=1.0.1
+future~=0.18.3
+requests~=2.31.0
